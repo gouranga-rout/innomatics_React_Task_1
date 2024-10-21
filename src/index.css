@@ -1,0 +1,28 @@
+h1 {
+ text-align: center;
+ color: blue;
+ background-color: black;
+}
+
+p {
+ text-align: center;
+ color: green;
+}
+
+button {
+ background-color: crimson;
+ color: #fff;
+ border: none;
+ outline: none;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin: 10px auto;
+ border-radius: 10px;
+}
+
+button:hover {
+ background-color: green;
+ transition: .3s ease;
+}
+
